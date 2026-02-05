@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for CEP146-NAA!
 
 ## About Me
-- Name: YOUR NAME
-- Program: YOUR PROGRAM
-- Year: YOUR ACADEMIC YEAR & SEMESTER
-- Favorite Programming Language: YOUR CHOICE
+- Name: Ahmad Al Hindi
+- Program: Computer Programming & Analysis
+- Year: 1st Year, Winter 2026
+- Favorite Programming Language: Python
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
